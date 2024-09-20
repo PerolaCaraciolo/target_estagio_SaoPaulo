@@ -3,7 +3,6 @@
 # Imprimir(SOMA);
 # Ao final do processamento, qual será o valor da variável SOMA?
 
-
 indice = 13
 soma = 0
 k = 0
